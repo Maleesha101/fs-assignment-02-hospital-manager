@@ -34,3 +34,4 @@ build/
 
 
 ~$signment 02.docx
+excludes .~lock.*
